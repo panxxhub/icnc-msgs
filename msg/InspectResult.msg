@@ -1,3 +1,3 @@
-int64 product_id
+uint64 product_id
 bool ok
-InspectElement[] inspect_result_elements
+InspectElement[<=5] inspect_result_elements
